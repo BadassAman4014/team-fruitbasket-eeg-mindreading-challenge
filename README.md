@@ -114,7 +114,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3.2 Instant 1-Click Reproduction (5 Seconds)
+### 3.2 1-Click Reproduction
 Computes the calibrated 2-Way Blend and generates public test metrics and submission files using verified precomputed matrices:
 
 ```bash
