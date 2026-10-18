@@ -1,0 +1,338 @@
+[
+  {
+    "epoch": 1,
+    "train_infonce": 3.5393063169979335,
+    "validation_infonce": 4.6780500411987305,
+    "validation_top1": 0.00980392156862745,
+    "validation_top5": 0.06862745098039216,
+    "validation_mrr": 0.05830927401024363,
+    "validation_median_rank": 47.0,
+    "temperature": 0.07007858591730363,
+    "fusion_weights": {
+      "aud_clap": 0.4999111294746399,
+      "vis_dino": 0.5000888109207153
+    }
+  },
+  {
+    "epoch": 2,
+    "train_infonce": 3.0452350433098525,
+    "validation_infonce": 4.564452171325684,
+    "validation_top1": 0.0196078431372549,
+    "validation_top5": 0.08823529411764706,
+    "validation_mrr": 0.07231625564469579,
+    "validation_median_rank": 39.5,
+    "temperature": 0.0702117562989643,
+    "fusion_weights": {
+      "aud_clap": 0.49923548102378845,
+      "vis_dino": 0.5007645487785339
+    }
+  },
+  {
+    "epoch": 3,
+    "train_infonce": 2.6077753577131872,
+    "validation_infonce": 4.475334167480469,
+    "validation_top1": 0.049019607843137254,
+    "validation_top5": 0.11764705882352941,
+    "validation_mrr": 0.1050428168965367,
+    "validation_median_rank": 33.0,
+    "temperature": 0.07019739200611078,
+    "fusion_weights": {
+      "aud_clap": 0.497623085975647,
+      "vis_dino": 0.5023769736289978
+    }
+  },
+  {
+    "epoch": 4,
+    "train_infonce": 2.128994031811421,
+    "validation_infonce": 4.427964210510254,
+    "validation_top1": 0.058823529411764705,
+    "validation_top5": 0.1568627450980392,
+    "validation_mrr": 0.12155405375313265,
+    "validation_median_rank": 32.5,
+    "temperature": 0.07000879636661654,
+    "fusion_weights": {
+      "aud_clap": 0.49520689249038696,
+      "vis_dino": 0.504793107509613
+    }
+  },
+  {
+    "epoch": 5,
+    "train_infonce": 1.7438841828814005,
+    "validation_infonce": 4.446745872497559,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.13725490196078433,
+    "validation_mrr": 0.11270292178726204,
+    "validation_median_rank": 33.0,
+    "temperature": 0.0696902951151807,
+    "fusion_weights": {
+      "aud_clap": 0.4922136962413788,
+      "vis_dino": 0.5077863335609436
+    }
+  },
+  {
+    "epoch": 6,
+    "train_infonce": 1.3960729060268704,
+    "validation_infonce": 4.52304744720459,
+    "validation_top1": 0.049019607843137254,
+    "validation_top5": 0.14705882352941177,
+    "validation_mrr": 0.11773929560667362,
+    "validation_median_rank": 34.0,
+    "temperature": 0.06929322595963666,
+    "fusion_weights": {
+      "aud_clap": 0.4888814389705658,
+      "vis_dino": 0.5111185312271118
+    }
+  },
+  {
+    "epoch": 7,
+    "train_infonce": 1.128420213835344,
+    "validation_infonce": 4.664114952087402,
+    "validation_top1": 0.049019607843137254,
+    "validation_top5": 0.16666666666666666,
+    "validation_mrr": 0.11932110972533909,
+    "validation_median_rank": 34.5,
+    "temperature": 0.0688680877312562,
+    "fusion_weights": {
+      "aud_clap": 0.48557889461517334,
+      "vis_dino": 0.5144211649894714
+    }
+  },
+  {
+    "epoch": 8,
+    "train_infonce": 0.7895790265168702,
+    "validation_infonce": 4.875718116760254,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.14705882352941177,
+    "validation_mrr": 0.10001557783146224,
+    "validation_median_rank": 34.0,
+    "temperature": 0.06843452282861771,
+    "fusion_weights": {
+      "aud_clap": 0.48229554295539856,
+      "vis_dino": 0.517704427242279
+    }
+  },
+  {
+    "epoch": 9,
+    "train_infonce": 0.6993329217162749,
+    "validation_infonce": 5.126857757568359,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.12745098039215685,
+    "validation_mrr": 0.09927516323738232,
+    "validation_median_rank": 33.5,
+    "temperature": 0.06798553585317381,
+    "fusion_weights": {
+      "aud_clap": 0.4789732098579407,
+      "vis_dino": 0.5210267901420593
+    }
+  },
+  {
+    "epoch": 10,
+    "train_infonce": 0.7969703046609292,
+    "validation_infonce": 5.36534309387207,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.11764705882352941,
+    "validation_mrr": 0.10149447657717543,
+    "validation_median_rank": 34.5,
+    "temperature": 0.06753211423248376,
+    "fusion_weights": {
+      "aud_clap": 0.47570323944091797,
+      "vis_dino": 0.524296760559082
+    }
+  },
+  {
+    "epoch": 11,
+    "train_infonce": 0.655463031692082,
+    "validation_infonce": 5.567048072814941,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.12745098039215685,
+    "validation_mrr": 0.10502793240324096,
+    "validation_median_rank": 31.5,
+    "temperature": 0.06707949069597811,
+    "fusion_weights": {
+      "aud_clap": 0.47250378131866455,
+      "vis_dino": 0.5274962186813354
+    }
+  },
+  {
+    "epoch": 12,
+    "train_infonce": 0.45472689992027665,
+    "validation_infonce": 5.806850433349609,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.12745098039215685,
+    "validation_mrr": 0.10389242005667788,
+    "validation_median_rank": 32.5,
+    "temperature": 0.066619266750704,
+    "fusion_weights": {
+      "aud_clap": 0.4693315327167511,
+      "vis_dino": 0.5306684374809265
+    }
+  },
+  {
+    "epoch": 13,
+    "train_infonce": 0.30914033357028187,
+    "validation_infonce": 5.998847007751465,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.12745098039215685,
+    "validation_mrr": 0.10194563890790281,
+    "validation_median_rank": 33.0,
+    "temperature": 0.06614067041026636,
+    "fusion_weights": {
+      "aud_clap": 0.4662337899208069,
+      "vis_dino": 0.5337662100791931
+    }
+  },
+  {
+    "epoch": 14,
+    "train_infonce": 0.4578774099947232,
+    "validation_infonce": 6.1827287673950195,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.11764705882352941,
+    "validation_mrr": 0.09068464655389633,
+    "validation_median_rank": 34.0,
+    "temperature": 0.065653922651823,
+    "fusion_weights": {
+      "aud_clap": 0.463264524936676,
+      "vis_dino": 0.5367354154586792
+    }
+  },
+  {
+    "epoch": 15,
+    "train_infonce": 0.4550851655634137,
+    "validation_infonce": 6.305176258087158,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.13725490196078433,
+    "validation_mrr": 0.09442411761540362,
+    "validation_median_rank": 32.0,
+    "temperature": 0.06517279608074178,
+    "fusion_weights": {
+      "aud_clap": 0.46039631962776184,
+      "vis_dino": 0.5396036505699158
+    }
+  },
+  {
+    "epoch": 16,
+    "train_infonce": 0.2821211184453427,
+    "validation_infonce": 6.410998821258545,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.12745098039215685,
+    "validation_mrr": 0.09484604259653488,
+    "validation_median_rank": 30.0,
+    "temperature": 0.06468586201559369,
+    "fusion_weights": {
+      "aud_clap": 0.4575464129447937,
+      "vis_dino": 0.5424536466598511
+    }
+  },
+  {
+    "epoch": 17,
+    "train_infonce": 0.5699027979070733,
+    "validation_infonce": 6.532222747802734,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.11764705882352941,
+    "validation_mrr": 0.0931114311683314,
+    "validation_median_rank": 31.0,
+    "temperature": 0.06419824106507602,
+    "fusion_weights": {
+      "aud_clap": 0.45479652285575867,
+      "vis_dino": 0.5452035069465637
+    }
+  },
+  {
+    "epoch": 18,
+    "train_infonce": 0.297944053078353,
+    "validation_infonce": 6.669949531555176,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.10784313725490197,
+    "validation_mrr": 0.09200003986073862,
+    "validation_median_rank": 31.0,
+    "temperature": 0.06372215677273373,
+    "fusion_weights": {
+      "aud_clap": 0.45216190814971924,
+      "vis_dino": 0.547838032245636
+    }
+  },
+  {
+    "epoch": 19,
+    "train_infonce": 0.24212942814441465,
+    "validation_infonce": 6.809896469116211,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.09803921568627451,
+    "validation_mrr": 0.09313855543184445,
+    "validation_median_rank": 32.5,
+    "temperature": 0.06324640884751018,
+    "fusion_weights": {
+      "aud_clap": 0.4495677947998047,
+      "vis_dino": 0.5504322052001953
+    }
+  },
+  {
+    "epoch": 20,
+    "train_infonce": 0.5023875129822377,
+    "validation_infonce": 6.919881820678711,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.10784313725490197,
+    "validation_mrr": 0.09390513527776741,
+    "validation_median_rank": 33.5,
+    "temperature": 0.06278629388023207,
+    "fusion_weights": {
+      "aud_clap": 0.4471609592437744,
+      "vis_dino": 0.5528390407562256
+    }
+  },
+  {
+    "epoch": 21,
+    "train_infonce": 0.2965338348408873,
+    "validation_infonce": 7.012561321258545,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.10784313725490197,
+    "validation_mrr": 0.09770794557173254,
+    "validation_median_rank": 33.5,
+    "temperature": 0.06234223088984959,
+    "fusion_weights": {
+      "aud_clap": 0.44492751359939575,
+      "vis_dino": 0.5550724864006042
+    }
+  },
+  {
+    "epoch": 22,
+    "train_infonce": 0.2816979578109006,
+    "validation_infonce": 7.096309661865234,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.10784313725490197,
+    "validation_mrr": 0.09363506122669575,
+    "validation_median_rank": 34.0,
+    "temperature": 0.06189510552335853,
+    "fusion_weights": {
+      "aud_clap": 0.44279465079307556,
+      "vis_dino": 0.557205319404602
+    }
+  },
+  {
+    "epoch": 23,
+    "train_infonce": 0.1709837281675294,
+    "validation_infonce": 7.156866073608398,
+    "validation_top1": 0.029411764705882353,
+    "validation_top5": 0.10784313725490197,
+    "validation_mrr": 0.09352951154236483,
+    "validation_median_rank": 34.0,
+    "temperature": 0.06144268811760514,
+    "fusion_weights": {
+      "aud_clap": 0.44069916009902954,
+      "vis_dino": 0.5593008399009705
+    }
+  },
+  {
+    "epoch": 24,
+    "train_infonce": 0.3913602388472014,
+    "validation_infonce": 7.201563835144043,
+    "validation_top1": 0.0392156862745098,
+    "validation_top5": 0.09803921568627451,
+    "validation_mrr": 0.10037267783171798,
+    "validation_median_rank": 34.0,
+    "temperature": 0.060990897339372616,
+    "fusion_weights": {
+      "aud_clap": 0.43862444162368774,
+      "vis_dino": 0.5613755583763123
+    }
+  }
+]

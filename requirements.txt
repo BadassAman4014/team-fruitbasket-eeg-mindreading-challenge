@@ -1,0 +1,30 @@
+# ==============================================================================
+# Team Fruitbasket — EEG Mindreading Challenge
+# Python 3.11 Requirements Specification
+# ==============================================================================
+
+# PyTorch CUDA 12.4 Wheels Index
+--extra-index-url https://download.pytorch.org/whl/cu124
+
+# Deep Learning Framework (GPU CUDA 12.4 build)
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+
+# Numerical Computing & Signal Processing
+numpy>=1.26.0,<2.3.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# Neural Architecture & Metric Learning
+einops>=0.7.0
+tqdm>=4.66.0
+joblib>=1.3.0
+
+# Audio & Multimodal Feature Processing
+soundfile>=0.12.0
+Pillow>=10.0.0
+transformers>=4.40.0
+huggingface-hub>=0.22.0
+safetensors>=0.4.0
+timm>=0.4.12
+accelerate>=0.28.0

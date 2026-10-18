@@ -1,0 +1,20 @@
+[
+  {
+    "epoch": 1,
+    "train_mse": 1.0198138356208801,
+    "validation_mse": 0.8109433650970459,
+    "validation_top1": 0.0,
+    "validation_top5": 0.0,
+    "validation_mrr": 0.02913283917384828,
+    "validation_median_rank": 49.0
+  },
+  {
+    "epoch": 2,
+    "train_mse": 1.0117881000041962,
+    "validation_mse": 0.8094444274902344,
+    "validation_top1": 0.0,
+    "validation_top5": 0.0,
+    "validation_mrr": 0.030278681695062648,
+    "validation_median_rank": 50.5
+  }
+]

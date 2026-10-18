@@ -1,0 +1,30 @@
+[
+  {
+    "epoch": 1,
+    "train_infonce": 3.6365583539009094,
+    "validation_infonce": 3.530869722366333,
+    "validation_top1": 0.0,
+    "validation_top5": 0.0625,
+    "validation_mrr": 0.04834408958253146,
+    "validation_median_rank": 41.5,
+    "temperature": 0.07000210358265294,
+    "fusion_weights": {
+      "aud_clap": 0.49999770522117615,
+      "vis_dino": 0.5000022649765015
+    }
+  },
+  {
+    "epoch": 2,
+    "train_infonce": 3.283276081085205,
+    "validation_infonce": 3.523747444152832,
+    "validation_top1": 0.0,
+    "validation_top5": 0.0625,
+    "validation_mrr": 0.048958024469022435,
+    "validation_median_rank": 41.5,
+    "temperature": 0.07000727261753677,
+    "fusion_weights": {
+      "aud_clap": 0.5000075697898865,
+      "vis_dino": 0.4999924600124359
+    }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "per_seed": {
+    "42": {
+      "fusion_weights": {
+        "concat": 1.0
+      },
+      "attention": {
+        "mode": "mean",
+        "frame_count": 8,
+        "frame_ids": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "cache_features_frozen": true
+      }
+    },
+    "123": {
+      "fusion_weights": {
+        "concat": 1.0
+      },
+      "attention": {
+        "mode": "mean",
+        "frame_count": 8,
+        "frame_ids": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "cache_features_frozen": true
+      }
+    },
+    "999": {
+      "fusion_weights": {
+        "concat": 1.0
+      },
+      "attention": {
+        "mode": "mean",
+        "frame_count": 8,
+        "frame_ids": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "cache_features_frozen": true
+      }
+    }
+  },
+  "mean_fusion_weights": {
+    "concat": 1.0
+  },
+  "attention": {
+    "pooling": "mean",
+    "frame_count": 8,
+    "required_frame_ids": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "strict_cache_validation": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "dino_cache_frozen": true,
+  "audio_cache_frozen": true,
+  "feature_normalizers_fit_on_ids": "1..900 only",
+  "checkpoint_selection_uses": "raw cosine on IDs 901..1000 only",
+  "csls_selected_on": "IDs 901..1000 only",
+  "seed_ensemble_combines": "raw cosine scores",
+  "public_labels_loaded_during_selection": false,
+  "subject_05_06_labels_loaded": false,
+  "public_label_reporting_after_all_selection": true,
+  "existing_run_overwritten": false,
+  "test_original_row_order_preserved": true
+}
